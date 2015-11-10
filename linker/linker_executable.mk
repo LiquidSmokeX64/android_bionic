@@ -1,4 +1,3 @@
-
 #
 # Instead of including $(BUILD_EXECUTABLE), we execute the steps to create an executable by
 # hand, as we want to insert an extra objcopy step that is not supported by the build
